@@ -110,34 +110,3 @@ void eliminarContacto();
 */
 void imprimirNombresColumnas();
 //---------------------------------------------------
-
-
-
-
-//---------------------------------------------------
-/* 
-* Nombre de la función: buscar.
-* Tipo de función: void.
-* Parámetros:   "agenda" de tipo FILE*.
-*               "busqueda" de tipo char[30].
-* Dato de retorno: n/a;
-* Descripción de la función: 
-* Busca una entrada en la lista de contactos.
-*/
-//void buscar(FILE* agenda, char busqueda[30]);
-//---------------------------------------------------
-
-
-
-//---------------------------------------------------
-/* 
-* Nombre de la función: buscar(sobrecargada).
-* Tipo de función: void.
-* Parámetros:   "agenda" de tipo FILE*.
-*               "busqueda" de tipo int.
-* Dato de retorno: n/a;
-* Descripción de la función: 
-* Busca una entrada en la lista de contactos.
-*/
-//void buscar(FILE* agenda, int busqueda);
-//---------------------------------------------------
